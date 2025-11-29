@@ -1,4 +1,5 @@
 payload:
 - DOMAIN,
-- PROCESS-NAME,LeagueClient.exe
+- PROCESS-NAME,
+
 

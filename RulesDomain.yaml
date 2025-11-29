@@ -1,4 +1,5 @@
 payload:
-- DOMAIN,
+- DOMAIN,2ip.ru
 - PROCESS-NAME,LeagueClient.exe
+
 

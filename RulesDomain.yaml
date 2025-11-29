@@ -1,8 +1,8 @@
 payload:
-- DOMAIN,2ip.io
-- DOMAIN,2ip.ru
+- DOMAIN,
 - PROCESS-NAME,Discord.exe
 - PROCESS-NAME,LeagueClient.exe
+
 
 
 

@@ -4,6 +4,9 @@ payload:
 - PROCESS-NAME,LeagueClient.exe
 - PROCESS-NAME,MonsterHunterWilds.exe
 - AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
+- DOMAIN-KEYWORD,data-p.gryphline.com
+- DOMAIN-KEYWORD,glcs.listdl.com
+
 
 
 

@@ -9,7 +9,7 @@ payload:
 - DOMAIN-KEYWORD,deadorbit.net
 - DOMAIN-KEYWORD,gravityshavings.net
 - DOMAIN-KEYWORD,telegram
-
+- PROCESS-NAME,Blitz.exe
 
 
 

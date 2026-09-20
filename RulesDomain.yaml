@@ -25,3 +25,4 @@ payload:
 # warcraft
 - PROCESS-NAME,Battle.net.exe
 - PROCESS-NAME,Warcraft III.exe
+- PROCESS-NAME,Agent.exe

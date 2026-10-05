@@ -30,3 +30,6 @@ payload:
 
   # === Arkheron ===
 - PROCESS-NAME,Arkheron.exe
+
+# Destiny 2
+- PROCESS-NAME,destiny2.exe

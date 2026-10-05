@@ -33,3 +33,7 @@ payload:
 
 # Destiny 2
 - PROCESS-NAME,destiny2.exe
+
+
+- DOMAIN-KEYWORD,gravityshavings.net
+- DOMAIN-KEYWORD,deadorbit.net

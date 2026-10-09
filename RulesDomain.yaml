@@ -33,15 +33,15 @@ payload:
 
 # Destiny 2
 - PROCESS-NAME,destiny2.exe
-
-
-- DOMAIN-KEYWORD,gravityshavings.net
-- DOMAIN-KEYWORD,deadorbit.net
 - PROCESS-NAME,destiny2launcher.exe
 
+# - DOMAIN-KEYWORD,gravityshavings.net
+# - DOMAIN-KEYWORD,deadorbit.net
 
-- DOMAIN-SUFFIX,destinyitemmanager.com
-- DOMAIN-SUFFIX,app.destinyitemmanager.com
-- DOMAIN-SUFFIX,bungie.net
-- DOMAIN-SUFFIX,bneter.com
-- DOMAIN-SUFFIX,light.gg
+
+
+# - DOMAIN-SUFFIX,destinyitemmanager.com
+# - DOMAIN-SUFFIX,app.destinyitemmanager.com
+# - DOMAIN-SUFFIX,bungie.net
+# - DOMAIN-SUFFIX,bneter.com
+# - DOMAIN-SUFFIX,light.gg

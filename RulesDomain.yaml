@@ -31,6 +31,9 @@ payload:
   # === Arkheron ===
 - PROCESS-NAME,Arkheron.exe
 
+  # === we were here ===
+- PROCESS-NAME,We Were Here Tomorrow.exe
+
 # Destiny 2
 - PROCESS-NAME,destiny2.exe
 - PROCESS-NAME,destiny2launcher.exe
